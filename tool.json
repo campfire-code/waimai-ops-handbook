@@ -1,0 +1,10 @@
+{
+  "id": "e34",
+  "slug": "waimai-ops-handbook",
+  "name": "外卖经营方法论手册",
+  "version": "0.1.0",
+  "repo": "campfire-code/waimai-ops-handbook",
+  "license": "CC-BY-4.0",
+  "delivery": "docs",
+  "upstream": null
+}
